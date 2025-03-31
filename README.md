@@ -22,7 +22,7 @@
 4. 커밋은 [n주차] 플랫폼_레벨_문제_이름의 컨벤션을 따른다.
 ```
 
-## ✅ 1주차 (~25.04.04) - 정렬 & 탐색
+## ✅ 1주차 (~25.04.03) - 정렬 & 탐색
 
 | 난이도 | 카테고리 | 제목 | 문제 링크 |
 |--------|----------|------|----------|
@@ -32,7 +32,7 @@
 | Silver |  | [백준: 수 정렬하기 2](https://www.acmicpc.net/problem/2751) | [🔗](https://www.acmicpc.net/problem/2751) |
 | Gold |  | [백준: 좌표 압축](https://www.acmicpc.net/problem/18870) | [🔗](https://www.acmicpc.net/problem/18870) |
 
-## ✅ 2주차 (~25.04.11) - 스택 & 큐
+## ✅ 2주차 (~25.04.03) - 스택 & 큐
 
 | 난이도 | 카테고리 | 제목 | 문제 링크 |
 |--------|----------|------|----------|
@@ -43,7 +43,7 @@
 | Gold |  | [백준: 옥상 정원 꾸미기](https://www.acmicpc.net/problem/6198) | [🔗](https://www.acmicpc.net/problem/6198) |
 
 
-## ✅ 3주차 (~25.04.18) - 연결 리스트 & 해시
+## ✅ 3주차 (~25.04.10) - 연결 리스트 & 해시
 
 | 난이도 | 카테고리 | 제목 | 문제 링크 |
 |--------|----------|------|----------|
@@ -53,7 +53,7 @@
 | Silver |  | [백준: 회사에 있는 사람](https://www.acmicpc.net/problem/7785) | [🔗](https://www.acmicpc.net/problem/7785) |
 | Gold |  | [백준: 최소 회의실 개수](https://www.acmicpc.net/problem/19598) | [🔗](https://www.acmicpc.net/problem/19598) |
 
-## ✅ 4주차 (~25.04.25) - 그래프 탐색 (DFS & BFS)
+## ✅ 4주차 (~25.04.17) - 그래프 탐색 (DFS & BFS)
 
 | 난이도 | 카테고리 | 제목 | 문제 링크 |
 |--------|----------|------|----------|
@@ -64,7 +64,7 @@
 | Gold |  | [백준: 숨바꼭질 3](https://www.acmicpc.net/problem/13549) | [🔗](https://www.acmicpc.net/problem/13549) |
 
 
-## ✅ 5주차 (~25.05.02) - 완전 탐색 & 백트래킹
+## ✅ 5주차 (~25.04.24) - 완전 탐색 & 백트래킹
 
 | 난이도 | 카테고리 | 제목 | 문제 링크 |
 |--------|----------|------|----------|
@@ -75,7 +75,7 @@
 | Gold |  | [백준: N-Queen](https://www.acmicpc.net/problem/9663) | [🔗](https://www.acmicpc.net/problem/9663) |
 
 
-## ✅ 6주차 (~25.05.09) - 동적 프로그래밍 (DP)
+## ✅ 6주차 (~25.05.01) - 동적 프로그래밍 (DP)
 
 | 난이도 | 카테고리 | 제목 | 문제 링크 |
 |--------|----------|------|----------|
@@ -85,7 +85,7 @@
 | Silver |  | [백준: 1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | [🔗](https://www.acmicpc.net/problem/9095) |
 | Gold |  | [백준: 내리막 길](https://www.acmicpc.net/problem/1520) | [🔗](https://www.acmicpc.net/problem/1520) |
 
-## ✅ 7주차 (~25.05.16) - 최단 경로 알고리즘
+## ✅ 7주차 (~25.05.08) - 최단 경로 알고리즘
 
 | 난이도 | 카테고리 | 제목 | 문제 링크 |
 |--------|----------|------|----------|
@@ -95,7 +95,7 @@
 | Silver |  | [백준: 최단경로](https://www.acmicpc.net/problem/1753) | [🔗](https://www.acmicpc.net/problem/1753) |
 | Gold |  | [백준: 파티](https://www.acmicpc.net/problem/1238) | [🔗](https://www.acmicpc.net/problem/1238) |
 
-## ✅ 8주차 (~25.05.23) - 최소 신장 트리 (MST)
+## ✅ 8주차 (~25.05.15) - 최소 신장 트리 (MST)
 
 | 난이도 | 카테고리 | 제목 | 문제 링크 |
 |--------|----------|------|----------|
@@ -106,7 +106,7 @@
 | Gold |  | [백준: 행성 터널](https://www.acmicpc.net/problem/2887) | [🔗](https://www.acmicpc.net/problem/2887) |
 
 
-## ✅ 9주차 (~25.05.30) - 이분 탐색 & 매개변수 탐색
+## ✅ 9주차 (~25.05.22) - 이분 탐색 & 매개변수 탐색
 
 | 난이도 | 카테고리 | 제목 | 문제 링크 |
 |--------|----------|------|----------|
@@ -116,7 +116,7 @@
 | Silver |  | [백준: 랜선 자르기](https://www.acmicpc.net/problem/1654) | [🔗](https://www.acmicpc.net/problem/1654) |
 | Gold |  | [백준: 공유기 설치](https://www.acmicpc.net/problem/2110) | [🔗](https://www.acmicpc.net/problem/2110) |
 
-## ✅ 10주차 (~25.06.06) - 트라이(Trie) & 문자열 알고리즘
+## ✅ 10주차 (~25.05.29) - 트라이(Trie) & 문자열 알고리즘
 
 | 난이도 | 카테고리 | 제목 | 문제 링크 |
 |--------|----------|------|----------|
@@ -126,7 +126,7 @@
 | Silver |  | [백준: 접두사 찾기](https://www.acmicpc.net/problem/14426) | [🔗](https://www.acmicpc.net/problem/14426) |
 | Gold |  | [백준: 문자열 폭발](https://www.acmicpc.net/problem/9935) | [🔗](https://www.acmicpc.net/problem/9935) |
 
-## ✅ 11주차 (~25.06.13) - 수학 & 조합론
+## ✅ 11주차 (~25.06.05) - 수학 & 조합론
 
 | 난이도 | 카테고리 | 제목 | 문제 링크 |
 |--------|----------|------|----------|
@@ -136,7 +136,7 @@
 | Silver |  | [백준: 다리 놓기](https://www.acmicpc.net/problem/1010) | [🔗](https://www.acmicpc.net/problem/1010) |
 | Gold |  | [백준: 골드바흐의 추측](https://www.acmicpc.net/problem/6588) | [🔗](https://www.acmicpc.net/problem/6588) |
 
-## ✅ 12주차 (~25.06.20) - 실전 모의 테스트
+## ✅ 12주차 (~25.06.12) - 실전 모의 테스트
 
 | 난이도 | 카테고리 | 제목 | 문제 링크 |
 |--------|----------|------|----------|
