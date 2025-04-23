@@ -1,6 +1,7 @@
 package week_5;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 
 public class 프로그래머스_1_모의고사_이현진 {
@@ -27,7 +28,7 @@ public class 프로그래머스_1_모의고사_이현진 {
         if (cnt[1] == maxP) answer.add(2);
         if (cnt[2] == maxP) answer.add(3);
 
-        answer.stream().sorted();
+        Collections.sort(answer);
         return answer;
     }
 }
