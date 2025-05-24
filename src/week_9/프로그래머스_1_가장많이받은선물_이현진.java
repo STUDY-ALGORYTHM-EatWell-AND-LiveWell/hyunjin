@@ -1,8 +1,8 @@
-package week_7;
+package week_9;
 
 import java.util.*;
 
-public class 프로그래머스_가장많이받은선물_이현진 {
+public class 프로그래머스_1_가장많이받은선물_이현진 {
     public static void main(String[] args) {
         String[] friends = {"a", "b", "c"};
         String[] gifts = {
