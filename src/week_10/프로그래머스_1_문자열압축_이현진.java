@@ -1,4 +1,4 @@
-package week_9;
+package week_10;
 
 public class 프로그래머스_1_문자열압축_이현진 {
     public static void main(String[] args) {
